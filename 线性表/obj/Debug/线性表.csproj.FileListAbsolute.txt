@@ -1,0 +1,7 @@
+D:\code\visual studio\数据结构_算法\线性表\bin\Debug\线性表.exe.config
+D:\code\visual studio\数据结构_算法\线性表\bin\Debug\线性表.exe
+D:\code\visual studio\数据结构_算法\线性表\bin\Debug\线性表.pdb
+D:\code\visual studio\数据结构_算法\线性表\obj\Debug\线性表.csprojAssemblyReference.cache
+D:\code\visual studio\数据结构_算法\线性表\obj\Debug\线性表.csproj.CoreCompileInputs.cache
+D:\code\visual studio\数据结构_算法\线性表\obj\Debug\线性表.exe
+D:\code\visual studio\数据结构_算法\线性表\obj\Debug\线性表.pdb

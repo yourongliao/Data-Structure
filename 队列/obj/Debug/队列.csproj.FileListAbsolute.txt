@@ -1,0 +1,7 @@
+D:\code\visual studio\数据结构_算法\队列\bin\Debug\队列.exe.config
+D:\code\visual studio\数据结构_算法\队列\bin\Debug\队列.exe
+D:\code\visual studio\数据结构_算法\队列\bin\Debug\队列.pdb
+D:\code\visual studio\数据结构_算法\队列\obj\Debug\队列.csprojAssemblyReference.cache
+D:\code\visual studio\数据结构_算法\队列\obj\Debug\队列.csproj.CoreCompileInputs.cache
+D:\code\visual studio\数据结构_算法\队列\obj\Debug\队列.exe
+D:\code\visual studio\数据结构_算法\队列\obj\Debug\队列.pdb

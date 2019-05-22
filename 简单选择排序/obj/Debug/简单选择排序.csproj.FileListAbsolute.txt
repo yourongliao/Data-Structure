@@ -1,0 +1,7 @@
+D:\code\visual studio\数据结构_算法\简单选择排序\bin\Debug\简单选择排序.exe.config
+D:\code\visual studio\数据结构_算法\简单选择排序\bin\Debug\简单选择排序.exe
+D:\code\visual studio\数据结构_算法\简单选择排序\bin\Debug\简单选择排序.pdb
+D:\code\visual studio\数据结构_算法\简单选择排序\obj\Debug\简单选择排序.csprojAssemblyReference.cache
+D:\code\visual studio\数据结构_算法\简单选择排序\obj\Debug\简单选择排序.csproj.CoreCompileInputs.cache
+D:\code\visual studio\数据结构_算法\简单选择排序\obj\Debug\简单选择排序.exe
+D:\code\visual studio\数据结构_算法\简单选择排序\obj\Debug\简单选择排序.pdb

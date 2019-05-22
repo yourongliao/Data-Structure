@@ -1,0 +1,6 @@
+D:\code\visual studio\数据结构_算法\栈和队列应用举例\bin\Debug\栈和队列应用举例.exe.config
+D:\code\visual studio\数据结构_算法\栈和队列应用举例\bin\Debug\栈和队列应用举例.exe
+D:\code\visual studio\数据结构_算法\栈和队列应用举例\bin\Debug\栈和队列应用举例.pdb
+D:\code\visual studio\数据结构_算法\栈和队列应用举例\obj\Debug\栈和队列应用举例.csproj.CoreCompileInputs.cache
+D:\code\visual studio\数据结构_算法\栈和队列应用举例\obj\Debug\栈和队列应用举例.exe
+D:\code\visual studio\数据结构_算法\栈和队列应用举例\obj\Debug\栈和队列应用举例.pdb
